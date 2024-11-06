@@ -1,5 +1,4 @@
-# WaterPotabilityPredictor
-Here’s a README draft for your **Water Potability Predictor** project, structured to provide all essential information clearly and concisely.
+
 
 ---
 
